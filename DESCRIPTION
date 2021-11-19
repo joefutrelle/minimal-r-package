@@ -1,0 +1,7 @@
+Package: minimal-r-package
+Version: 0.1
+Date: 2021-11-19
+Title: Minimal R package
+Description: Example of an R package installable with install_github
+Author: Joe Futrelle <jfutrelle@whoi.edu>
+Maintainer: Joe Futrelle <jfutrelle@whoi.edu>
